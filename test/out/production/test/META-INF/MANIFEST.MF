@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: C:\opencv_3_3\build\java\opencn-330.jar
+Main-Class: sample.Main
+
